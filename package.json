@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "country-flags-svg": "^1.1.6",
+    "translate": "^1.4.1"
+  }
+}
